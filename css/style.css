@@ -1,10 +1,11 @@
 body {
-    background-color: rgb(236, 223, 182);
+    background-color: rgb(232, 225, 202);
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
       margin-bottom: 20px;
       padding:10px;
       font-size: 1.2em;
+      text-align: center;
       
   }
   h1 {
@@ -49,9 +50,9 @@ body {
       }
   #div2 {
     background-color: rgb(151, 212, 208);
-    position: relative;
+    /* position: relative;
     top:20px;
-    left: 20px;
+    left: 20px; */
       }
   #div3 {
     background-color: rgb(254, 255, 185);
@@ -70,7 +71,7 @@ body {
     position: sticky;
     top: 1px;
     border: 2px solid cornflowerblue;
-    background-color: rgb(236, 223, 182);
+    background-color: rgb(232, 225, 202);
     z-index: 1;
   }    
 
